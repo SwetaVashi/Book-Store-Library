@@ -1,4 +1,4 @@
-# Local-Library_2020_11_04
+# Book-Store Library Backend
 It is a backend project, using node express, js. It does not have any front-end design, so you have to use the postman Or similar program to use the project
 
 # Purpose:
